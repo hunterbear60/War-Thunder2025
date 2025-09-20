@@ -79,3 +79,4 @@ Dominate battles in **War Thunder** with our next-gen private software.
 | **How to update?**    | Auto-updates with every new War Thunder patch.           |
 | **Unlock skins?**     | Yes, all premium camouflages & decals unlocked instantly.|
 | **Support?**          | Included via private loader community.                   |
+ 
